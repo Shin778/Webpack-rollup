@@ -1,0 +1,10 @@
+$text-color: red;
+
+body {
+  background: rgb(116, 27, 27);
+  color: $text-color;
+
+  h1 {
+    color: $text-color;
+  }
+}
